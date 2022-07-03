@@ -62,5 +62,6 @@ Once you submit the form it will generates resource information into your page.
 Junit test cases are created in the test folder and its available inside the project and i have covered 3 junit test cases and results are as shown below.
 ![image](https://github.com/Sameera-83/Contents/blob/main/TestResults.PNG)
 
-Thanks for viewing my Page.
+Thanks for viewing my Page
+
 Sameera
